@@ -1,0 +1,2 @@
+The background color in the "michael" colorscheme has been shamelessly copied from the "inkpot" colorscheme 
+(which can be found at http://www.vim.org/scripts/script.php?script_id=1143)
